@@ -65,14 +65,16 @@ Financial_planning(Hackathon).ipynb
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Team Members
 
-Rithika Ramashankar Pal  
-BSc Data Science Student  
+This project was developed during a Hackathon Workshop by:
 
-GitHub:  
-https://github.com/palrithika29
+- **Rithika Ramashankar Pal**
+- **Anchal Yadav**
+-**Zubaida Qureshi**
+-**Suhana Mullani**
 
+BSc Data Science Students
 ---
 
 ## 📚 Learning Outcomes
